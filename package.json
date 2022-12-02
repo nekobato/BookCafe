@@ -24,7 +24,7 @@
     "express-session": "1.15.6",
     "fs-extra": "^7.0.0",
     "imagemagick-stream": "4.1.1",
-    "lodash": "4.17.4",
+    "lodash": "4.17.21",
     "mongoose": "5.0.0-rc1",
     "morgan": "1.7.0",
     "passport": "0.4.0",
